@@ -18,7 +18,7 @@
 }
 
 .presenter-text {
-  font-family: 'Arial', monospace;
+  font-family:'Bebas Neue', 'Anton', 'Impact';
   font-size: 1.9rem;
   color: #fbff7ed0;
   letter-spacing: 2px;
@@ -100,11 +100,11 @@
   gap: 10px;
   aspect-ratio: 1 / 1;
   transition: box-shadow 0.3s ease;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.516);
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.8);
 }
 
 .info-widget:hover {
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.6);
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.8);
 }
 
 .info-widget-icon {
@@ -166,7 +166,7 @@
 
   .presenter-text {
     font-weight: bold;
-    font-size: 1.35rem;
+    font-size: 2rem;
     letter-spacing: 2px;
   }
   .hackathon-title-image {

@@ -181,12 +181,12 @@ function App() {
           margin: 0 auto;
         }
         .prize-card {
-          background-color: var(--primary-red);
+          background-color: #e21111ff;
           border: 1px solid #a00a12;
           padding: 15px;
           border-radius: 15px;
           transition: transform 0.3s ease, box-shadow 0.3s ease;
-          box-shadow: 0 0 10px rgba(255, 0, 0, 0.4);
+          box-shadow: 0 0 20px rgba(255, 191, 0, 0.82);
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -197,7 +197,6 @@ function App() {
         }
         .prize-card:hover {
           transform: translateY(-10px);
-          box-shadow: 0 0 20px rgba(255, 0, 0, 0.7);
         }
         .prize-emoji {
           font-size: 3rem;
@@ -226,13 +225,14 @@ function App() {
           justify-items: center;
         }
         .registration-widget {
-          background-color: var(--primary-red);
+        
+          background-color: #e21111ff;
           border: 1px solid #a00a12;
           padding: 20px;
           border-radius: 15px;
           text-align: center;
           transition: transform 0.3s ease, box-shadow 0.3s ease;
-          box-shadow: 0 0 10px rgba(255, 0, 0, 0.4);
+          box-shadow: 0 0 20px rgba(255, 191, 0, 0.82);
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -243,7 +243,6 @@ function App() {
         }
         .registration-widget:hover {
           transform: translateY(-5px);
-          box-shadow: 0 0 20px rgba(255, 0, 0, 0.7);
         }
         .widget-icon {
           stroke: #fff;

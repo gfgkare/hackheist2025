@@ -62,7 +62,7 @@
   position: absolute;
   display: block;
   border-radius: 50%;
-  background-color: rgba(164, 5, 5, 0.2); /* Use your theme's red color with low opacity */
+  background-color: rgba(167, 10, 10, 0.311); /* Use your theme's red color with low opacity */
   filter: blur(20px);
   animation: float 25s infinite linear;
 }
