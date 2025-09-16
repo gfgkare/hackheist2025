@@ -100,7 +100,7 @@ function App() {
         <h2 className="section-title">Rules</h2>
         <ul className="section-content" style={{textAlign: 'left', listStylePosition: 'inside'}}>
           <li>Team of 4 members.</li>
-          <li>The projects should strictly align with any of the given themes.</li>
+          <li>The projects should align with the given problem statements only.</li>
           <li>No plagiarism.</li>
           <li>The Projects are evaluated according to the Industry Standards to ensure that the students are exposed to evaluation process inside the software Industry.</li>
         </ul>
@@ -181,12 +181,12 @@ function App() {
           margin: 0 auto;
         }
         .prize-card {
-          background-color: #e21111ff;
-          border: 1px solid #a00a12;
+          background-color: #a50000;
+          border: 1px solid #a50000;
           padding: 15px;
           border-radius: 15px;
           transition: transform 0.3s ease, box-shadow 0.3s ease;
-          box-shadow: 0 0 20px rgba(255, 191, 0, 0.82);
+          box-shadow: 0 0 15px rgba(255, 0, 0, 0.868);
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -226,13 +226,13 @@ function App() {
         }
         .registration-widget {
         
-          background-color: #e21111ff;
-          border: 1px solid #a00a12;
+          background-color: #a50000;
+          border: 1px solid #a50000;;
           padding: 20px;
           border-radius: 15px;
           text-align: center;
           transition: transform 0.3s ease, box-shadow 0.3s ease;
-          box-shadow: 0 0 20px rgba(255, 191, 0, 0.82);
+          box-shadow: 0 0 15px rgba(255, 0, 0, 0.868);
           display: flex;
           flex-direction: column;
           justify-content: center;
