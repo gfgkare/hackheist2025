@@ -111,11 +111,11 @@ function App() {
         <div className="gallery-grid">
           <div className="gallery-item">
             <img src={event2} alt="Past Event 1" className="gallery-image" />
-            <h4 className="gallery-label">Algorithmist25</h4>
+            <h4 className="gallery-label">Algorithmist24</h4>
           </div>
           <div className="gallery-item">
             <img src={event1} alt="Past Event 2" className="gallery-image" />
-            <h4 className="gallery-label">Algorithmist24</h4>
+            <h4 className="gallery-label">GeekFest2024</h4>
           </div>
           <div className="gallery-item">
             <img src={event3} alt="Past Event 3" className="gallery-image" />
