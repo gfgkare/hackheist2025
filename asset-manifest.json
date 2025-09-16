@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hack-heist-2025-website/static/css/main.83b20097.css",
-    "main.js": "/hack-heist-2025-website/static/js/main.bfc06a42.js",
-    "static/js/453.5b920d27.chunk.js": "/hack-heist-2025-website/static/js/453.5b920d27.chunk.js",
-    "static/media/event4.png": "/hack-heist-2025-website/static/media/event4.a48f2bccb84244160d2a.png",
-    "static/media/event3.png": "/hack-heist-2025-website/static/media/event3.9de6d6d110500bed9890.png",
-    "static/media/event2.png": "/hack-heist-2025-website/static/media/event2.0e030841e970b3d123fe.png",
-    "static/media/event1.png": "/hack-heist-2025-website/static/media/event1.813010070ac1ea8a4a5a.png",
-    "static/media/hackheist.png": "/hack-heist-2025-website/static/media/hackheist.6b8123fbf6d7adb1838b.png",
-    "static/media/floater-icon.png": "/hack-heist-2025-website/static/media/floater-icon.a7604f6fca32a1a3233f.png",
-    "static/media/logo.png": "/hack-heist-2025-website/static/media/logo.94a04a8bf122a8a15f34.png",
-    "static/media/sponsor1.png": "/hack-heist-2025-website/static/media/sponsor1.94a04a8bf122a8a15f34.png",
-    "index.html": "/hack-heist-2025-website/index.html",
-    "main.83b20097.css.map": "/hack-heist-2025-website/static/css/main.83b20097.css.map",
-    "main.bfc06a42.js.map": "/hack-heist-2025-website/static/js/main.bfc06a42.js.map",
-    "453.5b920d27.chunk.js.map": "/hack-heist-2025-website/static/js/453.5b920d27.chunk.js.map"
+    "main.css": "/hackheist2025/static/css/main.83b20097.css",
+    "main.js": "/hackheist2025/static/js/main.dfc03bad.js",
+    "static/js/453.5b920d27.chunk.js": "/hackheist2025/static/js/453.5b920d27.chunk.js",
+    "static/media/event4.png": "/hackheist2025/static/media/event4.a48f2bccb84244160d2a.png",
+    "static/media/event3.png": "/hackheist2025/static/media/event3.9de6d6d110500bed9890.png",
+    "static/media/event2.png": "/hackheist2025/static/media/event2.0e030841e970b3d123fe.png",
+    "static/media/event1.png": "/hackheist2025/static/media/event1.813010070ac1ea8a4a5a.png",
+    "static/media/hackheist.png": "/hackheist2025/static/media/hackheist.6b8123fbf6d7adb1838b.png",
+    "static/media/floater-icon.png": "/hackheist2025/static/media/floater-icon.a7604f6fca32a1a3233f.png",
+    "static/media/logo.png": "/hackheist2025/static/media/logo.94a04a8bf122a8a15f34.png",
+    "static/media/sponsor1.png": "/hackheist2025/static/media/sponsor1.94a04a8bf122a8a15f34.png",
+    "index.html": "/hackheist2025/index.html",
+    "main.83b20097.css.map": "/hackheist2025/static/css/main.83b20097.css.map",
+    "main.dfc03bad.js.map": "/hackheist2025/static/js/main.dfc03bad.js.map",
+    "453.5b920d27.chunk.js.map": "/hackheist2025/static/js/453.5b920d27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b20097.css",
-    "static/js/main.bfc06a42.js"
+    "static/js/main.dfc03bad.js"
   ]
 }
