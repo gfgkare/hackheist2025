@@ -6,7 +6,7 @@ import hackHeistTitle from '../assets/hackheist.png';
 const Timer = () => {
     const calculateTimeLeft = () => {
         // Using the current date for demonstration, replace with your hackathon's end date
-        const hackathonEndDate = new Date('2025-10-11T00:00:00');
+        const hackathonEndDate = new Date('2025-09-19T18:00:00');
         const difference = +hackathonEndDate - +new Date();
         let timeLeft = {};
 

@@ -40,6 +40,8 @@ function App() {
       <section id="about" className="section">
         <h2 className="section-title">About Hack Heist</h2>
         <p className="section-content">
+          A 24-Hour journey of innovation, teamwork, and creativity awaits.
+
           We invite you to showcase your innovative project and compete for the top prize.
         </p>
       </section>
@@ -47,7 +49,7 @@ function App() {
       <section id="who-are-we" className="section">
         <h2 className="section-title">Who Are We?</h2>
         <p className="section-content">
-          The GFG KARE Student Chapter, proudly affiliated with GeeksforGeeks, is a vibrant community of tech enthusiasts and future innovators at Kalasalingam Academy of Research and Education.
+          The GFG CAMPUS BODY KARE, proudly affiliated with GeeksforGeeks, is a vibrant community of tech enthusiasts and future innovators at Kalasalingam Academy of Research and Education.
           We organize workshops, coding competitions, hackathons, and guest lectures.
           Join us in our journey to push the boundaries of what's possible in the world of technology. 
         </p>
@@ -70,11 +72,11 @@ function App() {
                 <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
               </svg>
               <h3 className="widget-title">Team <br></br> Size</h3>
-              <p className="widget-value">3-4</p>
+              <p className="widget-value">4</p>
               <span className="widget-subtitle">members</span>
             </div>
           </div>
-          <a href="https://hack-heist-2025.vercel.app" className="register-button" style={{marginTop: '40px', display: 'inline-block'}}>Register Your Team</a>
+          <a href="#" className="register-button" style={{marginTop: '40px', display: 'inline-block'}}>REGISTRATION OPENS SOON</a>
         </div>
       </section>
       
@@ -82,19 +84,9 @@ function App() {
         <h2 className="section-title">Prizes</h2>
         <div className="prize-container">
           <div className="prize-card">
-            <span className="prize-emoji">🥇</span>
-            <h3>1st Place</h3>
-            <p>₹5,000</p>
-          </div>
-          <div className="prize-card">
-            <span className="prize-emoji">🥈</span>
-            <h3>2nd Place</h3>
-            <p>₹2,500</p>
-          </div>
-          <div className="prize-card">
-            <span className="prize-emoji">🥉</span>
-            <h3>3rd Place</h3>
-            <p>₹1,500</p>
+            <span className="prize-emoji">🏆</span>
+            <h3>Prize Pool</h3>
+            <p>₹10000</p>
           </div>
           <div className="prize-card">
             <span className="prize-emoji">📜</span>
@@ -107,10 +99,10 @@ function App() {
       <section id="rules" className="section">
         <h2 className="section-title">Rules</h2>
         <ul className="section-content" style={{textAlign: 'left', listStylePosition: 'inside'}}>
-          <li>Team of 3 - 4 people.</li>
+          <li>Team of 4 members.</li>
           <li>The projects should strictly align with any of the given themes.</li>
           <li>No plagiarism.</li>
-          <li>The registration fee of Rs. 300 (per head) should be paid to complete the registration. This fee covers the registration, mentorship, refreshments and the ticket for the offline presentation.</li>
+          <li>The Projects are evaluated according to the Industry Standards to ensure that the students are exposed to evaluation process inside the software Industry.</li>
         </ul>
       </section>
 
@@ -131,7 +123,7 @@ function App() {
           </div>
           <div className="gallery-item">
             <img src={event4} alt="Past Event 4" className="gallery-image" />
-            <h4 className="gallery-label">Event 4</h4>
+            <h4 className="gallery-label">Prajnotsavah 2024</h4>
           </div>
         </div>
       </section>
@@ -156,6 +148,8 @@ function App() {
           M Rakshan Ananth - 9003513022
           <br></br>
           Vijayashekar - 9398802601
+          <br></br>
+          Shruthi M - 8870867242
         </p>
       </section>
 
