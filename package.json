@@ -1,7 +1,7 @@
 {
   "name": "hack-heist",
   "version": "0.1.0",
-  "homepage": "https://gfgkare.github.io/hack-heist-2025-website",
+  "homepage": "https://gfgkare.github.io/hackheist2025/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
