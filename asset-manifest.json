@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hack-heist-2025-website/static/css/main.50ff6017.css",
-    "main.js": "/hack-heist-2025-website/static/js/main.276bb9f1.js",
+    "main.css": "/hack-heist-2025-website/static/css/main.6be3c079.css",
+    "main.js": "/hack-heist-2025-website/static/js/main.00c3adc0.js",
     "static/js/453.5b920d27.chunk.js": "/hack-heist-2025-website/static/js/453.5b920d27.chunk.js",
     "static/media/event4.png": "/hack-heist-2025-website/static/media/event4.a48f2bccb84244160d2a.png",
     "static/media/event3.png": "/hack-heist-2025-website/static/media/event3.9de6d6d110500bed9890.png",
@@ -12,12 +12,12 @@
     "static/media/logo.png": "/hack-heist-2025-website/static/media/logo.94a04a8bf122a8a15f34.png",
     "static/media/sponsor1.png": "/hack-heist-2025-website/static/media/sponsor1.94a04a8bf122a8a15f34.png",
     "index.html": "/hack-heist-2025-website/index.html",
-    "main.50ff6017.css.map": "/hack-heist-2025-website/static/css/main.50ff6017.css.map",
-    "main.276bb9f1.js.map": "/hack-heist-2025-website/static/js/main.276bb9f1.js.map",
+    "main.6be3c079.css.map": "/hack-heist-2025-website/static/css/main.6be3c079.css.map",
+    "main.00c3adc0.js.map": "/hack-heist-2025-website/static/js/main.00c3adc0.js.map",
     "453.5b920d27.chunk.js.map": "/hack-heist-2025-website/static/js/453.5b920d27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50ff6017.css",
-    "static/js/main.276bb9f1.js"
+    "static/css/main.6be3c079.css",
+    "static/js/main.00c3adc0.js"
   ]
 }
