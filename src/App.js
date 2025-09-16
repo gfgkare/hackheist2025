@@ -75,8 +75,11 @@ function App() {
               <p className="widget-value">4</p>
               <span className="widget-subtitle">members</span>
             </div>
+            
           </div>
-          <a href="#" className="register-button" style={{marginTop: '40px', display: 'inline-block'}}>REGISTRATION OPENS SOON</a>
+          <h3 className="warning-text">* Any one member from the team should complete the team registration *</h3>
+          <a href="#" className="register-button2" style={{marginTop: '1px', display: 'inline-block'}}>REGISTRATION OPENS SOON</a>
+          
         </div>
       </section>
       
@@ -167,6 +170,7 @@ function App() {
               <FaGithub />
             </a>
           </div>
+          <p>Developed by Vijayashekar</p>
         </div>
       </footer>
       

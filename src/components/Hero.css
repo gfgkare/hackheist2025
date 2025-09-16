@@ -146,7 +146,6 @@
   animation: fadeInUp 0.5s ease-out 1.4s forwards, pulse 2s infinite 2s;
   border-radius: 25px;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.868);
-  
 }
 
 .register-button:hover {
@@ -154,6 +153,8 @@
   transform: scale(1.05);
   animation-play-state: paused; 
 }
+
+
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
