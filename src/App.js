@@ -93,7 +93,7 @@ function App() {
           </div>
           <div className="prize-card">
             <span className="prize-emoji">📜</span>
-            <h3>Certificates</h3>
+            <h3>Participation Certificate</h3>
             <p>For All</p>
           </div>
         </div>
