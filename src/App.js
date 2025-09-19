@@ -170,7 +170,6 @@ function App() {
               <FaGithub />
             </a>
           </div>
-          <p>Developed by Vijayashekar</p>
         </div>
       </footer>
       
