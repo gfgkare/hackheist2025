@@ -78,7 +78,7 @@ function App() {
             
           </div>
           <h3 className="warning-text">* Any one member from the team should complete the team registration *</h3>
-          <a href="#" className="register-button2" style={{marginTop: '1px', display: 'inline-block'}}>REGISTRATION OPENS SOON</a>
+          <a href="https://hack-heist-2025.vercel.app" className="register-button2" style={{marginTop: '1px', display: 'inline-block'}}>REGISTER YOUR TEAM</a>
           
         </div>
       </section>
