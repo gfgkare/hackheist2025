@@ -17,6 +17,11 @@ const Timer = () => {
                 min: Math.floor((difference / 1000 / 60) % 60),
                 sec: Math.floor((difference / 1000) % 60),
             };
+            
+        }
+        else {
+            // This is the new part that runs when the timer is done
+            timeLeft = { days: 0, HR: 0, min: 0, sec: 0 };
         }
         return timeLeft;
     };
@@ -41,11 +46,15 @@ const Timer = () => {
             </div>
         );
     });
-
+    const isTimeUp = timeLeft.days === 0 && timeLeft.HR === 0 && timeLeft.min === 0 && timeLeft.sec === 0;
     return (
-        <div className="timer-container">
-            {timerComponents.length ? timerComponents : <span>Time's up!</span>}
-        </div>
+        <>
+            <div className="timer-container">
+                {timerComponents}
+            </div>
+            {/* Conditionally render the text when the time is up */}
+            {isTimeUp && <p className="timer-finished-text">TIME'S UP! <br></br>REGISTRATION IS NOW LIVE </p>}
+        </>
     );
 };
 
