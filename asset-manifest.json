@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hackheist2025/static/css/main.d89f5d25.css",
-    "main.js": "/hackheist2025/static/js/main.5743b20e.js",
+    "main.css": "/hackheist2025/static/css/main.602c8d65.css",
+    "main.js": "/hackheist2025/static/js/main.5c55241c.js",
     "static/js/453.5b920d27.chunk.js": "/hackheist2025/static/js/453.5b920d27.chunk.js",
     "static/media/event4.png": "/hackheist2025/static/media/event4.a48f2bccb84244160d2a.png",
     "static/media/event3.png": "/hackheist2025/static/media/event3.9de6d6d110500bed9890.png",
@@ -12,12 +12,12 @@
     "static/media/logo.png": "/hackheist2025/static/media/logo.94a04a8bf122a8a15f34.png",
     "static/media/sponsor1.png": "/hackheist2025/static/media/sponsor1.94a04a8bf122a8a15f34.png",
     "index.html": "/hackheist2025/index.html",
-    "main.d89f5d25.css.map": "/hackheist2025/static/css/main.d89f5d25.css.map",
-    "main.5743b20e.js.map": "/hackheist2025/static/js/main.5743b20e.js.map",
+    "main.602c8d65.css.map": "/hackheist2025/static/css/main.602c8d65.css.map",
+    "main.5c55241c.js.map": "/hackheist2025/static/js/main.5c55241c.js.map",
     "453.5b920d27.chunk.js.map": "/hackheist2025/static/js/453.5b920d27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d89f5d25.css",
-    "static/js/main.5743b20e.js"
+    "static/css/main.602c8d65.css",
+    "static/js/main.5c55241c.js"
   ]
 }
