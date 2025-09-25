@@ -139,20 +139,20 @@ function App() {
         </div>
       </section>
 
-      <section id="contact" className="section">
+      <section id="contact" className="section"> 
         <h2 className="section-title">Contact Us</h2>
         
         <p className="section-content">
           For any queries, feel free to contact.
         </p>
         <p className="section-contect"> 
-          Anirudh Naginayani Cheruvu - 9966066070
+          Anirudh Naginayani Cheruvu - <a className='linkcolor' href='tel:9966066070'>9966066070</a>
           <br></br>
-          M Rakshan Ananth - 9003513022
+          M Rakshan Ananth - <a className='linkcolor' href='tel:9003513022'>9003513022</a>
           <br></br>
-          Vijayashekar - 9398802601
+          Vijayashekar - <a className='linkcolor' href='tel:9398802601'>9398802601</a>
           <br></br>
-          Shruthi M - 8870867242
+          Shruthi M - <a className='linkcolor' href='tel:8870867242'>8870867242</a>
         </p>
       </section>
 
