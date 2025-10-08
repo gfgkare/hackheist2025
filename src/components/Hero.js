@@ -53,7 +53,7 @@ const Timer = () => {
                 {timerComponents}
             </div>
             {/* Conditionally render the text when the time is up */}
-            {isTimeUp && <p className="timer-finished-text">TIME'S UP! <br></br>REGISTRATION IS NOW LIVE </p>}
+            {isTimeUp && <p className="timer-finished-text">TIME'S UP! <br></br>REGISTRATIONS ARE CLOSED </p>}
         </>
     );
 };
@@ -89,7 +89,7 @@ const Hero = () => {
         </div>
         {/* --- END OF NEW WIDGETS --- */}
 
-        <a href="#register" className="register-button">Register Now</a>
+        <a href="#register" className="register-button">REGISTRATIONS CLOSED</a>
       </div>
     </section>
   );
